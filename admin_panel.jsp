@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 13 Oct, 2015, 10:07:12 PM
-    Author     : AKSHAY SRIVASTAVA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8" import="java.sql.*,javax.servlet.*,javax.servlet.http.*,java.io.*"%>
 <!DOCTYPE html>
